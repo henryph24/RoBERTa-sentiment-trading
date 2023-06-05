@@ -10,6 +10,6 @@ The approach chosen was relatively standard where sentiments are
 resampled on a daily basis using arithmetic mean. Additionally, we need to obtain close price data 
 of the tickers of our interests to showcase how might sentimental analysis empower our predictive modelling 
 of stock prices. This is achieved via yfinance library.
-Additionally, we need to obtain close price data of the tickers of our interests to showcase how
-might sentimental analysis empower our predictive modelling of stock prices. This is achieved
-via yfinance library.
+A simplistic back-testing process has been performed accordingly to derive various statistics, such as
+winning rates and cumulative returns that demonstrate the performance of the proposed
+strategy, with an example initial investment amount of a thousand dollar
